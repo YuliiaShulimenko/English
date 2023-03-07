@@ -1,0 +1,14 @@
+ 1 уровень сложности: Write an answer to the questions usually asked at stand-up meetings. Talk about your work or studies.
+
+Questions:
+What did you do yesterday?
+What problems/impediments/ blockers do you have?
+What are you doing today?
+
+
+************
+
+Hello!
+Yesterday I worked on my website layout project, adding functionality. 
+During the work, I encountered a problem with the correct operation of the slider. 
+I read additional material, searched for some information on the Internet and plan to fix all existing errors and finish the project today.
